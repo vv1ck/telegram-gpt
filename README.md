@@ -79,9 +79,8 @@ python3 JokaGPT.py
 <!--END_SECTION:waka-->
 ---------------------
 
-How to use :
-- 1 -  Create an email.txt file and put the emails inside it, and also create a proxy.txt file and put the proxies inside it
-- 2 - Now run the tool, it will ask you to enter the name of the emails file, then enter the name of the proxy file, enter their names, then the tool will work without problems
+Do not forget ! :
+- Edit the JokaGPT.py file and put your bot token inside the file, you have specified the place where you should put the token
 
 ---------------------
 By JOKER | <a class="" href="https://www.instagram.com/221298">Instagram ☠️</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a> | <a class="" href="http://t.me/TweakPY">telegram 2 🔷</a>
