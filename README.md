@@ -27,7 +27,6 @@ How to use the Joka bot:
 ```
 <!--END_SECTION:waka-->
 
-- ======
 - 3- If you have a speech that you want to convert into a voice, all you have to do is use the command (/lang) and write the speech with it, for example:
 
 <!--START_SECTION:waka-->
@@ -38,19 +37,18 @@ How to use the Joka bot:
 ```
 <!--END_SECTION:waka-->
 
-- ======
 - </> It will convert speech into sound in three different languages...
 
 -----------------------
 install in kali linux :
 <!--START_SECTION:waka-->
 ```
-sudo git clone https://github.com/vv1ck/checker-email-tiktok
+sudo https://github.com/vv1ck/telegram-gpt
 ```
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-->
 ```
-cd checker-email-tiktok
+cd telegram-gpt
 ```
 <!--END_SECTION:waka-->
 -----------------------
@@ -60,10 +58,23 @@ You need to download the requests library if you don't have it :
 pip install requests
 ```
 <!--END_SECTION:waka-->
-- Then run the tool :
+
 <!--START_SECTION:waka-->
 ```
-python3 CHECKER_EMAILS_TIKTOK.py
+pip install PyTelegramBotAPI==3.6.7
+```
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+```
+pip install gtts
+```
+<!--END_SECTION:waka-->
+
+- Then run the bot :
+<!--START_SECTION:waka-->
+```
+python3 JokaGPT.py
 ```
 <!--END_SECTION:waka-->
 ---------------------
