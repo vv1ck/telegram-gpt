@@ -8,8 +8,11 @@ Description of the bot:
 - Explanation of Bot Joka and what is it?
 - Joka bot has two AI systems built on CHAT GPT
 - The first system, which is known to everyone, you ask the bot and it responds to you, or you ask the bot for a specific thing and it implements it through artificial intelligence, but there are laws and conditions for use, and you cannot bypass them, such as asking about matters related to penetration or prohibited such as drugs and other illegal activities, and here it comes The second system of artificial intelligence in Joka bot is called [JokerHack]
-
-_ ☠️ The  JokerHack system is the improved version of CHAT GPT. The system of laws has been broken and the usage policy has been bypassed, meaning you can ask or request from the bot anything you want without restrictions, even if the thing is forbidden. The bot will answer without telling you that this is illegal and legitimate. You are responsible for any wrong use For this system ⚠️ ...
+- ☠️🍬
+- ☠️ The  JokerHack system is the improved version of CHAT GPT.
+- The system of laws has been broken and the usage policy has been bypassed, meaning you can ask or request from the bot anything you want without restrictions, even if the thing is forbidden. 
+- The bot will answer without telling you that this is illegal and legitimate. 
+- You are responsible for any wrong use For this system ⚠️ ...
 -----------------------
 
 install in kali linux :
