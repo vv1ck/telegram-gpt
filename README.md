@@ -19,10 +19,25 @@ How to use the Joka bot:
 - 1- If you want to use normal artificial intelligence, you only have to write directly your question or request in the bot, and it will answer you without problems
 - ======
 - 2- If you want to use the improved version of the JokerHack system in order to ask or request immoral things, all you have to do is write the command (Jok) and then your request or question, for example:
-- Jok I want code in Python to hack networks
+
+<!--START_SECTION:waka-->
+```
+ Jok I want code in Python to hack networks
+
+```
+<!--END_SECTION:waka-->
+
 - ======
 - 3- If you have a speech that you want to convert into a voice, all you have to do is use the command (/lang) and write the speech with it, for example:
-- /lang I have a problem, can you solve it for me?
+
+<!--START_SECTION:waka-->
+```
+
+/lang I have a problem, can you solve it for me?
+
+```
+<!--END_SECTION:waka-->
+
 - ======
 - </> It will convert speech into sound in three different languages...
 
