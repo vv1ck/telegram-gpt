@@ -2,7 +2,7 @@
 Joka Bot V2 
 -
 <img src="/E17CE541-B198-47B0-91CC-A2349AAC8B9C.jpeg"></img>
-Checker Email For TikTok ☑️
+Joka Bot GPT 🍬🦋
 - 
 Description of the bot:
 - Explanation of Bot Joka and what is it?
